@@ -1,11 +1,12 @@
-# Config Server
+# Config Server Repository
 
-## Description
+Le repository distant qui gére les fichiers de configuration de nos microservices
 
-- 
--
--
+## Services
 
-## Dependances
-
-- config server
+- keycloak-user-management
+- projects-management-service
+- bug-management-service
+- eureka-service
+- api-gateway
+- notification-service
